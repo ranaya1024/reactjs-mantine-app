@@ -1,0 +1,15 @@
+.tableContainer {
+  display: flex;
+  flex-direction: column;
+
+  .actionsContainer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+
+    .sortByDropdown {
+      width: 18%;
+    }
+  }
+}
