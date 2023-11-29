@@ -1,4 +1,4 @@
-import { Skeleton, Center, Title } from '@mantine/core';
+import { Skeleton, Center } from '@mantine/core';
 import styles from './loading-skeleton.module.scss';
 
 type Props = {
